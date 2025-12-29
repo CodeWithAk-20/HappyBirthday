@@ -13,19 +13,21 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Sachiilluuuuuuuu],
 
-Your personalized birthday message goes here.
+Em radhaamm, time ki em guthuravadam ledhu gaa, sare let me think !!!!
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+Nenu chusina ammayiloo the cutest and chweetest person nuvvey at the same time pedddaa pshycho kuda nuvvey 😜
+Nuvvu naku ela close ayyavoo kuda gurthu ledhu but i feel so happy and lucky to have u in my life.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+To the most special person in my life,
 
-Happy Birthday! 🎉
+Wishing you a day filled with love, laughter, and all the things that bring you joy. 
+May this year ahead be your best one yet, full of exciting adventures and unforgettable memories.
 
-— [Your Name]`;
+Appieeee Birthdayyyyyyyyy 💗💗💗
+
+— [Akshay]`;
 
   // Handle page transitions
   useEffect(() => {
